@@ -21,7 +21,7 @@ sys.path.append(REPO_PATH)
 
 
 # Location of Alexa 1M
-ALEXA_1M = 'http://s3.amazonaws.com/alexa-static/top-1m.csv.zip'
+ALEXA_1M = 'http://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip'
 DATA_PATH = REPO_PATH + '/data'
 # Our ourput file containg all the training data
 DATA_FILE = os.path.join(DATA_PATH, 'traindata.pkl')
