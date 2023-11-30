@@ -8,6 +8,9 @@ This repo seeks to provide code on how to reproduce the models/results mentioned
 
  __The model(s) are implemented in Pytorch & Tensorflow 2.0__
 
+## Dependency
+dga_classifier: https://github.com/penybai/dga_predict
+
 ## Model Architectures
 
 ### Convolutional NN
